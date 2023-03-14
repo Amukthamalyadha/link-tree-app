@@ -24,13 +24,13 @@ const config = {
       key: "twitter",
       label: "Twitter",
       iconUrl: Twitter,
-      redirectUrl: "https://twitter.com/SpheronHQ",
+      redirectUrl: "https://twitter.com/Amu1393",
     },
     {
       key: "linkedin",
       label: "LinkedIn",
       iconUrl: LinkedIn,
-      redirectUrl: "https://www.linkedin.com/company/spheron/",
+      redirectUrl: "https://www.linkedin.com/in/amukthamalyadha-dusari-a6145224b/",
     },
     // {
     //   "key": "medium",
@@ -42,7 +42,7 @@ const config = {
       key: "youtube",
       label: "YouTube",
       iconUrl: Youtube,
-      redirectUrl: "https://www.youtube.com/channel/UCIe3FlAWg06kGOrm1-c8oJg",
+      redirectUrl: "https://www.youtube.com/channel/UCHIdsNdCobfFiKIZD8_yC9Q",
     },
     {
       key: "discord",
@@ -54,7 +54,7 @@ const config = {
       key: "github",
       label: "GitHub",
       iconUrl: GitHub,
-      redirectUrl: "https://github.com/spheronFdn/",
+      redirectUrl: "https://github.com/Amukthamalyadha",
     },
   ],
 };
